@@ -4,7 +4,8 @@ The analysis is used to detect the walking patterns of the humans by using the G
 The Training accuracy is comparitively higher for EfficientNetB0 model followed by CNN and MobileNetV2 being the least efficient to perform the gait accuracy also gives the worst training accuracy loss. 
 
 Dataset used is CASIA-B that contains 124 directories which inturn is sub divided into bg - Bag, nm - normal walking and cl -wearing coat. 
-Link to the Dataset - https://www.kaggle.com/datasets/trnquanghuyn/casia-b/data
+
+Link to the Dataset -https://www.kaggle.com/datasets/trnquanghuyn/casia-b/data
 
 Models Used:
 Custom CNN
